@@ -1,0 +1,34 @@
+/** Navbar Section -------------------------------------------------------------- */
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+ .navbar{
+   height: 50px;
+   background-color: #B22222;
+
+   }
+
+   .navbar-brand{   
+       color: #fafafa;   
+      font-family: "Exo", sans-serif;      
+     
+   }
+
+   .nav-slogan{
+       color:  #fafafa;
+       text-align: center;
+       margin-left: 150px;
+       text-transform: uppercase;
+   }
+
+   .nav-number{
+       color: #fafafa;
+       font-family: "Exo",sans-serif;
+   }
+
+   .navbar-nav{
+       font-family: "Exo", sans-serif;
+       padding-left: 40%;
+   }
+       
+                      /** title page of website
