@@ -5,11 +5,14 @@ body {
     font-family: 'lato', sans-serif;
 }
 
-
+/** Jumbotron Section -------------------------------------------------------------- */
+.jumbotron{
+background: url('../images/Company2.jpg') no-repeat bottom right fixed;
+}
 
 /** Navbar Section -------------------------------------------------------------- */
 
-.navbar{      
+.navbar-custom{      
     background-color: #B22222;
     top: 0;
     width: 100%;
@@ -40,7 +43,16 @@ color:#fafafa;
 color: #fafafa;
 }
 
+image.fluid{
+    size: 20;
+}
 
-
+.carousel-item > img {
+  position: relative;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 25rem;
+}
 
 
