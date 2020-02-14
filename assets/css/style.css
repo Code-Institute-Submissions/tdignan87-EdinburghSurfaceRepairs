@@ -6,13 +6,17 @@ body {
 }
 
 .navbar{
-text-align: center;
+
 width: 100%;
 max-height: 20%;
 font-weight: bold;
 color: black;
+text-align: justify;
 
+}
 
+.navbar .navbar-toggler {
+   
 }
 
 .fa-icon-inner-text{
