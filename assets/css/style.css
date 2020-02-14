@@ -1,58 +1,124 @@
 
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Odibee+Sans|Roboto&display=swap');
 
 body {
-    font-family: 'lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
-/** Jumbotron Section -------------------------------------------------------------- */
-.jumbotron{
-background: url('../images/Company2.jpg') no-repeat bottom right fixed;
+.navbar{
+text-align: center;
+width: 100%;
+max-height: 20%;
+font-weight: bold;
+color: black;
+
+
 }
 
-/** Navbar Section -------------------------------------------------------------- */
+.fa-icon-inner-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+    text-align: left;
+    padding-right: 15px;
+}
 
-.navbar-custom{      
-    background-color: #B22222;
-    top: 0;
-    width: 100%;
-    padding-top: 0px;
-    border: 0;
-    margin-bottom: 0;
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+ 
+}
+
+fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.navbar-text-color{
+    color:red;
+}
+
+.navbar-image{
+    border-radius: 50%;
+    max-height: 50%;
+    padding-top: 10px;
+    padding-bottom: 2px;
+}
+
+.fas .fa-phone{
+    font-family: 'Roboto',sans-serif;
+    text-align: left;
+}
+
+.jumbotron {
+  background-color: #B22222;
+   color: #fff;
+  padding: 100px 25px;
+  padding-top: 28px;
+  background-image: url("../images/check.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom:1px solid;
+  position:relative;
+
+  
+}
+
+p {
+text-align: justify;
+}
+
+.jumbo-image{
+  float:right;
+  size: 50%;
+  position: absolute;
+}
+
+.container-fluid {
+  padding: 60px 50px;
+ align-content: center;
+ text-align: center;
+}
+
+.modal{
+    padding-bottom: 5px;
+}
+
+
+.logo-small {
+  color: #f4511e;
+  font-size: 50px;
+}
+
+.logo {
+  color: #f4511e;
+  font-size: 200px;
+}
+ .container-fluid{
+     
+    padding: 60px 50px;
+  }
+
+.container-wrap-red{
+      background-color: #B22222;
+      color: #fafafa;
+}
+
+.fa-wrench {
+    content: "\f06b";
+}
+
+.btn-primary{
+    background-color: red;
     
 }
-
-.logo-image{
-padding-bottom: 20%;
-  
-
-}
-
-
-.navbar .navbar-brand {
-    font-weight: bold;
-    color: #fafafa;
-    margin-bottom: 2px;
-    margin-top:2px;
-}
-.navbar-collapse{
-color:#fafafa;
-}
-
-.nav-item {
-color: #fafafa;
-}
-
-image.fluid{
-    size: 20;
-}
-
-.carousel-item > img {
-  position: relative;
-    top: 0;
-    left: 0;
-    min-width: 100%;
-    height: 25rem;
-}
-
-
