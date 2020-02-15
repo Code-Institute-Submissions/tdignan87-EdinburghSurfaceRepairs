@@ -158,8 +158,12 @@ show a contact details form, when user completes will email to the company. */
 }
 
 
+/* Images on examples html page */
+
 .example-images-carousel{
     text-align: right;
+    height: auto;
+
 }
 
 
@@ -184,6 +188,18 @@ show a contact details form, when user completes will email to the company. */
 clear:none;
     }
 
+.carousel {
+    position: relative;
+    width: 100%;
+}
+
+@media screen and (max-width: 480px) {
+.example-images-carousel {
+         width: 300px;
+    }
+
+
+}
 
 .worktop-text{
 padding-top: 25px;

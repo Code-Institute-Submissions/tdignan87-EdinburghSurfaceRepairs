@@ -12,6 +12,7 @@ Technologies Used
 •	CSS3
 
 
+UX
 
 
 
