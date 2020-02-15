@@ -3,6 +3,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    
 }
 
 .navbar{
@@ -70,8 +71,9 @@ fa:hover {
   background-image: url("../images/check.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  border-bottom:1px solid;
+  border-bottom:1px solid ;
   position:relative;
+  
 
   
 }
@@ -160,7 +162,7 @@ fa:hover {
 }
 
 
-.crack-sink-img{
+.example-images-carousel{
     text-align: right;
 }
 
@@ -192,3 +194,10 @@ clear:none;
     padding-top: 5px;
     font-family: 'Lato',sans-serif;
 }
+
+.worktop-text{
+padding-top: 20px;
+}
+
+
+
