@@ -193,6 +193,8 @@ clear:none;
     width: 100%;
 }
 
+/* Images on Carousel are shrunk for smaller devices */
+
 @media screen and (max-width: 480px) {
 .example-images-carousel {
          width: 300px;
@@ -210,4 +212,7 @@ padding-top: 25px;
     padding: 60px 50px;
   }
 
+.footer-section{
+    text-align: center;
+}
 
