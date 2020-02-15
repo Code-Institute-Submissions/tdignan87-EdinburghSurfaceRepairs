@@ -1,12 +1,17 @@
 # EdinburghSurfaceRepairs
 
 Project Overview
+This is my first milestone project for the Code Institute. My brother has recently 
+started a new start up business and has asked me to do a simple website for him. 
+I decided to use this as my first milestone project using HTML5, CSS3 and bootstrap. 
 
-This project is using HTML5 and CSS3 with bootstrap to promote Edinburgh Surface Repairs. ESR
-are a small company in Edinburgh Scotland, who do surface repair work and have recently started up.
-They need help with a simple website promoting there company and the work that they do.
 
-UX
+Technologies Used
+•	Bootstrap 4
+•	HTML5
+•	CSS3
 
-Wireframes created for project?
+
+
+
 

@@ -1,11 +1,16 @@
 
 @import url('https://fonts.googleapis.com/css?family=Odibee+Sans|Roboto&display=swap');
 
+
+/* Body CSS for using google fonts - Roboto then sans-serif as fallback */
+
+
 body {
     font-family: 'Roboto', sans-serif;
     
 }
 
+/* Navbar element section across all three pages.Bootstrap navbar was copied into HTML */ *
 .navbar{
 
 width: 100%;
@@ -16,7 +21,7 @@ text-align: justify;
 
 }
 
-
+/* Font Awesome icons used for facebook, and linked in icons */
 .fa-icon-inner-text{
     font-family: 'Roboto', sans-serif;
     font-size: 1rem;
@@ -47,6 +52,17 @@ fa:hover {
   color: white;
 }
 
+
+.fa-wrench {
+    content: "\f06b";
+}
+
+
+.fa-instagram {
+  background: #AB2F27;
+  color: white;
+}
+
 .navbar-text-color{
     color:#AB2F27;
 }
@@ -63,6 +79,9 @@ fa:hover {
     text-align: left;
 }
 
+/* Used bootstrap Jumbotron with image as background. I wanted something simple, to stand out */
+
+
 .jumbotron {
   background-color: #AB2F27;
    color: #fff;
@@ -73,9 +92,6 @@ fa:hover {
   background-size: cover;
   border-bottom:1px solid ;
   position:relative;
-  
-
-  
 }
 
 
@@ -85,6 +101,10 @@ fa:hover {
   position: absolute;
 }
 
+/* Container element below jumbotron - Used to keep everything aligned tidy. I wanted text to
+appear professional and aligned across pages */
+
+
 .container-fluid {
   padding: 60px 50px;
  align-content: center;
@@ -92,30 +112,13 @@ fa:hover {
 
 }
 
+/* Modal used for pop up contact details. Bootstrap - Simple way of showing details. Eventually this will
+show a contact details form, when user completes will email to the company. */
 .modal{
     padding-bottom: 5px;
 }
 
-
-
-
-.logo-small {
-  color: #f4511e;
-  font-size: 50px;
-}
-
-.p .lead {
-    text-align: justify;
-}
-
-
-
-.logo {
-  color: #f4511e;
-  font-size: 200px;
-}
  .container-fluid{
-     
     padding: 60px 50px;
   }
 
@@ -124,20 +127,13 @@ fa:hover {
       color: #fafafa;
 }
 
-.fa-wrench {
-    content: "\f06b";
-}
-
-
-.fa-instagram {
-  background: #AB2F27;
-  color: white;
-}
-
+/* Button in container for modal launch *//
 .btn-primary{
     background-color: #AB2F27;
     
 }
+
+/* Services section - Wanted a seperate color to stand out */
 
 .services-container {
     background-color: #AB2F27;
@@ -173,6 +169,9 @@ fa:hover {
 
 }
 
+
+/* Carousel from bootstrap for the examples page. */
+
 .sink-carousel{
     padding-top: 0;
     padding-bottom: 0;
@@ -185,15 +184,6 @@ fa:hover {
 clear:none;
     }
 
-.cracked_sink_image{
-    height:600px;
-    width: 420px;
-}
-
-.example-work-header{
-    padding-top: 5px;
-    font-family: 'Lato',sans-serif;
-}
 
 .worktop-text{
 padding-top: 25px;
