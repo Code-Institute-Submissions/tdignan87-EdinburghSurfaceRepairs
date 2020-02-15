@@ -15,9 +15,6 @@ text-align: justify;
 
 }
 
-.navbar .navbar-toggler {
-   
-}
 
 .fa-icon-inner-text{
     font-family: 'Roboto', sans-serif;
@@ -30,7 +27,7 @@ text-align: justify;
 }
 
 .fa {
-  padding: 20px;
+  padding: 10px;
   font-size: 30px;
   width: 70px;
   text-align: center;
@@ -41,15 +38,16 @@ text-align: justify;
 
 fa:hover {
     opacity: 0.7;
+
 }
 
 .fa-facebook {
-  background: #3B5998;
+  background:#AB2F27;
   color: white;
 }
 
 .navbar-text-color{
-    color:red;
+    color:#AB2F27;
 }
 
 .navbar-image{
@@ -65,7 +63,7 @@ fa:hover {
 }
 
 .jumbotron {
-  background-color: #B22222;
+  background-color: #AB2F27;
    color: #fff;
   padding: 100px 25px;
   padding-top: 28px;
@@ -78,9 +76,6 @@ fa:hover {
   
 }
 
-p {
-text-align: justify;
-}
 
 .jumbo-image{
   float:right;
@@ -91,7 +86,8 @@ text-align: justify;
 .container-fluid {
   padding: 60px 50px;
  align-content: center;
- text-align: center;
+ text-align: justify;
+
 }
 
 .modal{
@@ -99,10 +95,18 @@ text-align: justify;
 }
 
 
+
+
 .logo-small {
   color: #f4511e;
   font-size: 50px;
 }
+
+.p .lead {
+    text-align: justify;
+}
+
+
 
 .logo {
   color: #f4511e;
@@ -113,8 +117,8 @@ text-align: justify;
     padding: 60px 50px;
   }
 
-.container-wrap-red{
-      background-color: #B22222;
+.container-wrap-{
+      background-color: #AB2F27;
       color: #fafafa;
 }
 
@@ -122,7 +126,69 @@ text-align: justify;
     content: "\f06b";
 }
 
+
+.fa-instagram {
+  background: #AB2F27;
+  color: white;
+}
+
 .btn-primary{
-    background-color: red;
+    background-color: #AB2F27;
     
+}
+
+.services-container {
+    background-color: #AB2F27;
+}
+
+.lead {
+    text-align: justify;
+}
+
+.container-wrap-red {
+    
+    background-color: #AB2F27;
+    color: #fafafa;
+}
+
+.container-wrap-white {
+    background-color: #F5F5F5;
+    color: black;
+    position: relative;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+
+.crack-sink-img{
+    text-align: right;
+}
+
+
+.header-examples{
+    background-color: #AB2F27;
+    opacity: 1;
+
+}
+
+.sink-carousel{
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: #AB2F27;
+    position: relative;
+    background-size: cover;
+    text-align: center;
+    color: #fafafa;
+    object-fit: cover;
+clear:none;
+    }
+
+.cracked_sink_image{
+    height:600px;
+    width: 420px;
+}
+
+.example-work-header{
+    padding-top: 5px;
+    font-family: 'Lato',sans-serif;
 }
