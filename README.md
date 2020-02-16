@@ -32,7 +32,6 @@ Due to the company only having one logo I felt that the white and red complement
 ## Wireframes
 1.	The relevant wireframes can be found for my project in my Git Repo in folders:
 assets/WireFrames/ESR Wireframe.pdf - Web design wireframes
-EdinburghSurfaceRepairs/assets/WireFrames/ESR Responsive.pdf - Web Browser Design
 assets/WireFrames/Responsive.pdf - Responsive design, Tablet and Phones.
 ## User Acceptance
 There were informal chats with the company’s owner. Throughout the process though, 
