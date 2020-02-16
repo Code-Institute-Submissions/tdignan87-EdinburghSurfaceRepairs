@@ -118,10 +118,6 @@ show a contact details form, when user completes will email to the company. */
     padding-bottom: 5px;
 }
 
- .container-fluid{
-    padding: 60px 50px;
-  }
-
 .container-wrap-{
       background-color: #AB2F27;
       color: #fafafa;
