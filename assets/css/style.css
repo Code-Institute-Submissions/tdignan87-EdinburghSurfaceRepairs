@@ -21,6 +21,18 @@ text-align: justify;
 
 }
 
+  .headerimg{
+      height: 180;
+      width: 80;
+      background-image: url("../images/logo.jpg");
+  }
+
+.navbarText{
+color: black;
+}
+
+
+
 /* Font Awesome icons used for facebook, and linked in icons */
 .fa-icon-inner-text{
     font-family: 'Roboto', sans-serif;
@@ -207,8 +219,4 @@ padding-top: 25px;
      
     padding: 60px 50px;
   }
-
-.footer-section{
-    text-align: center;
-}
 
