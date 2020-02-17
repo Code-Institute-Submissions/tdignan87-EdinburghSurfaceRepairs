@@ -1,18 +1,22 @@
-## Edinburgh Surface Repairs ##
+# Edinburgh Surface Repairs #
  
-Project Overview
+## Project Overview ##
+
 This is my first milestone project. Edinburgh Surface Repairs is a new small start up company based in Edinburgh. They repair surfaces for construction and domestic customers and since it’s launched the owner has seen a lot of demand. 
 I’ve designed and build this website as a simple three-page site promoting the company’s work, giving an overview of what services they provide and also another way for potential customers.
-UX
+
+## UX ##
 Edinburgh Surface Repairs website has been created with a focus on what exactly Edinburgh Surface Repair does and its contact details. Most of ESR’s work customers have been driven from social media so it was important that the website had relevant links to these. 
 The concept for ECR was to demonstrate to potential customers examples of there work and another way of potentially getting new customers. 
 The website contains three pages. The Index gives page gives a summary of what sectors the business covers, and a services section which also gives a summary of what specific services they offer. There is a modal on this page purposely for people to click to retrieve the company’s contact details.
 The second page simply demonstrated work examples using bootstrap’s carousel. Before and after pictures
 The third page shows some customer review’s taken from the companys facebook. 
+
 Throughout the site the navbar, social media links, contact details, company logo, and jumbotron are a fixed template across the whole site.
 This website helps ECR achieve its goals from a user to use, user friendly, responsive design website. 
 Due to the company only having one logo I felt that the white and red complement each other well on the website alongside the social media icons being red also.
-User Stories
+
+ ## User Stories ##
 1.	As a user I want to see exactly what the company does.
 2.	As a user I don’t want to see an overcrowded website.
 3.	As a user I want to be able to access the contact details easily.
